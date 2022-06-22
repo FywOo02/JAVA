@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Adventure">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/win/Adventure.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

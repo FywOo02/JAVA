@@ -1,0 +1,3 @@
+ID     Name     Mark
+01      cho     98.0
+02     owen     98.0
